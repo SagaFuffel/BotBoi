@@ -1,0 +1,17 @@
+{
+    "name": "sagal",
+    "version": "1.0.0",
+    "description": "for discord bot",
+    "main": "index.js",
+    "scripts": {
+      "test": "test-command"
+    },
+    "author": "saga",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^14.15.3"
+    },
+    "devDependencies": {
+      "eslint": "^9.8.0"
+    }
+  }
